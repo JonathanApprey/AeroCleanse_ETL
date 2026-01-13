@@ -1,6 +1,6 @@
 # AeroCleanse ETL Pipeline ✈️
 
-**AeroCleanse** is a robust, Data Engineering portfolio project designed to simulate a real-world DoD Maintenance, Repair, and Overhaul (MRO) data pipeline. It demonstrates the end-to-end process of ingesting raw, unstructured aircraft maintenance logs, cleaning them using advanced Regex patterns, and loading verified data into a relational database for analytics.
+**AeroCleanse** is a robust, Data Engineering project designed to simulate a real-world DoD Maintenance, Repair, and Overhaul (MRO) data pipeline. It demonstrates the end-to-end process of ingesting raw, unstructured aircraft maintenance logs, cleaning them using advanced Regex patterns, and loading verified data into a relational database for analytics.
 
 ## 🚀 Project Overview
 
@@ -83,4 +83,4 @@ pytest
 *   **Unit Testing:** ensuring reliability of critical cleaning functions.
 
 ---
-*Built by [Jonathan Ekow Apprey](https://github.com/JonathanApprey) as a demonstration of Data Engineering competencies.*
+*Built by [JonathanApprey](https://github.com/JonathanApprey) as a demonstration of Data Engineering competencies.*
